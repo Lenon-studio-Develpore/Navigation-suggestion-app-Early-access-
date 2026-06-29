@@ -1,0 +1,6 @@
+{
+  "name": "Travel JSON",
+  "description": "JSON database for Turkey travel locations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

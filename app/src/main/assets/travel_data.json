@@ -1,0 +1,177 @@
+[
+  {
+    "id": "antalya_kas_001",
+    "baslik": "Kaputaş Plajı",
+    "bolge": "Antalya / Kaş",
+    "kapak_resmi_url": "https://images.unsplash.com/photo-1596489376179-883a95b871c5?q=80&w=1080&auto=format&fit=crop",
+    "galeri_resimleri": [
+      "https://images.unsplash.com/photo-1616421034458-7bc093952f44?q=80&w=1080&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1599818451152-4a0b22fdb21d?q=80&w=1080&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1627072483594-e8666579dfaf?q=80&w=1080&auto=format&fit=crop"
+    ],
+    "tanitim_videosu_url": "https://www.youtube.com/embed/5U2zB6-g17M",
+    "acıklama": "Sarp kayalıklar arasında, turkuazın en güzel tonlarını barındıran Kaputaş Plajı, Kaş'ın en popüler ve büyüleyici noktalarından biridir. Yeraltından sızan kaynak suları sayesinde yazın en sıcak günlerinde bile ferahlatıcı bir denizi vardır. Merdivenlerden inerken karşılaşacağınız manzara aklınıza kazınacak.",
+    "zaman_dilimi_onerisi": {
+      "hedef_saat": "08:00-13:00",
+      "aktivite": "Sabahın erken saatlerinde kalabalıklaşmadan denizin ve sakinliğin tadını çıkarmak, berrak sularda yüzmek."
+    },
+    "yorumlar": [
+      {
+        "kullanici_adi": "gezginkız",
+        "puan": 5,
+        "yorum_metni": "Suyu gerçekten çok soğuk ama o turkuaz renge girmeden duramıyorsunuz. Manzarası efsane!"
+      },
+      {
+        "kullanici_adi": "deniztutkunu",
+        "puan": 4,
+        "yorum_metni": "Merdivenleri çıkmak biraz yorucu olsa da kesinlikle değer. Erken saatte gelmek en iyisi."
+      },
+      {
+        "kullanici_adi": "ahmet_yılmaz",
+        "puan": 5,
+        "yorum_metni": "Türkiye'de gördüğüm en güzel plajlardan biri. Renk cümbüşü adeta."
+      }
+    ],
+    "harita_koordinat_link": "https://goo.gl/maps/Q56Jg2a4q9w7883N8"
+  },
+  {
+    "id": "antalya_kekova_001",
+    "baslik": "Kaleköy (Simena)",
+    "bolge": "Antalya / Demre",
+    "kapak_resmi_url": "https://images.unsplash.com/photo-1621516223707-88981df27756?q=80&w=1080&auto=format&fit=crop",
+    "galeri_resimleri": [
+      "https://images.unsplash.com/photo-1596489376371-bfbd33ab2075?q=80&w=1080&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1563853110255-08104de3c467?q=80&w=1080&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1621516218768-3e47201c1072?q=80&w=1080&auto=format&fit=crop"
+    ],
+    "tanitim_videosu_url": "https://www.youtube.com/embed/Pj1Gj5Gf1f4",
+    "acıklama": "Sadece deniz yoluyla ulaşılabilen Kaleköy (Simena), tarihi dokusu ve batık şehir manzarasıyla eşsiz bir deneyim sunar. Dar sokaklarında dolaşırken Likya döneminden kalma lahitleri görebilir, kaleden Kekova Körfezi'nin nefes kesici manzarasına şahit olabilirsiniz. Meşhur ev yapımı dondurmasını tatmadan dönmeyin.",
+    "zaman_dilimi_onerisi": {
+      "hedef_saat": "16:00-21:00",
+      "aktivite": "Güneşin batışına yakın kaleye çıkıp muazzam manzarayı izlemek ve ev yapımı şeftalili dondurma yemek."
+    },
+    "yorumlar": [
+      {
+        "kullanici_adi": "tarih_sever",
+        "puan": 5,
+        "yorum_metni": "Denizin içindeki Likya lahitleri büyüleyici. Adeta zamanda yolculuk gibi."
+      },
+      {
+        "kullanici_adi": "lezzet_pesinde",
+        "puan": 5,
+        "yorum_metni": "Kaledeki dondurmacının şeftalili ve muzlu dondurması efsane. Manzaraya karşı yemek harika."
+      },
+      {
+        "kullanici_adi": "tekne_turu",
+        "puan": 4,
+        "yorum_metni": "Tekneyle yanaşmak çok keyifli. Sokakları biraz yokuş ama manzarası her şeye değer."
+      }
+    ],
+    "harita_koordinat_link": "https://goo.gl/maps/1234567890abcdef"
+  },
+  {
+    "id": "mugla_fethiye_001",
+    "baslik": "Saklıkent Kanyonu",
+    "bolge": "Muğla / Seydikemer (Antalya Sınırı)",
+    "kapak_resmi_url": "https://images.unsplash.com/photo-1628172935293-6c8ea39c5b46?q=80&w=1080&auto=format&fit=crop",
+    "galeri_resimleri": [
+      "https://images.unsplash.com/photo-1558296362-e648c6686a7d?q=80&w=1080&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1596489376643-d34e9e1ec452?q=80&w=1080&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1628172935579-24b539bf367c?q=80&w=1080&auto=format&fit=crop"
+    ],
+    "tanitim_videosu_url": "https://www.youtube.com/embed/zH3vH3H3H3H",
+    "acıklama": "Buz gibi suların aktığı, yüksekliği yer yer 300 metreyi bulan devasa kayaların arasında bir doğa harikası. Kanyon boyunca yürüyüş yaparken suların coşkusuna kapılacak, çamur banyosu yaparak eğlenceli anlar yaşayacaksınız. Macera severler için nehir üzerinde rafting imkanı da bulunuyor.",
+    "zaman_dilimi_onerisi": {
+      "hedef_saat": "10:00-15:00",
+      "aktivite": "Sıcak öğle saatlerinde buz gibi sularda kanyon yürüyüşü yapmak ve nehir kenarında alabalık yemek."
+    },
+    "yorumlar": [
+      {
+        "kullanici_adi": "maceraperest",
+        "puan": 5,
+        "yorum_metni": "Suyu o kadar soğuk ki ilk başta nefesiniz kesiliyor ama sonra alışıyorsunuz. Doğa harikası!"
+      },
+      {
+        "kullanici_adi": "aile_tatili",
+        "puan": 4,
+        "yorum_metni": "Çocuklarla belirli bir yere kadar gidebildik ama yine de çok keyifliydi. Plastik ayakkabı kiralamak şart."
+      },
+      {
+        "kullanici_adi": "doga_asigi",
+        "puan": 5,
+        "yorum_metni": "Çamur banyosu yapmadan dönmeyin. Fotoğraflar için inanılmaz kareler sunuyor."
+      }
+    ],
+    "harita_koordinat_link": "https://goo.gl/maps/saklikent123"
+  },
+  {
+    "id": "antalya_olympos_001",
+    "baslik": "Olympos Antik Kenti ve Plajı",
+    "bolge": "Antalya / Kumluca",
+    "kapak_resmi_url": "https://images.unsplash.com/photo-1621946025680-cb41a0279dcb?q=80&w=1080&auto=format&fit=crop",
+    "galeri_resimleri": [
+      "https://images.unsplash.com/photo-1621946026402-9a3b6805187e?q=80&w=1080&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1621946025178-5a210d64eb07?q=80&w=1080&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1596489376880-994b7e8de4b3?q=80&w=1080&auto=format&fit=crop"
+    ],
+    "tanitim_videosu_url": "https://www.youtube.com/embed/8yG8G8G8G8G",
+    "acıklama": "Doğanın ve tarihin iç içe geçtiği Olympos, ağaç evleri ve bohem atmosferiyle bilinir. Çam ağaçları arasından geçip antik kalıntılar eşliğinde ulaştığınız Olympos Plajı'nda, dere ile denizin birleştiği noktada serinleyebilirsiniz. Akşamları ise Yanartaş'a tırmanıp sönmeyen ateşi izlemek unutulmaz bir deneyimdir.",
+    "zaman_dilimi_onerisi": {
+      "hedef_saat": "15:00-20:00",
+      "aktivite": "Öğleden sonra antik kenti gezip plajda yüzmek, akşamüzeri ise Yanartaş'a tırmanıp ateşte marshmallow kızartmak."
+    },
+    "yorumlar": [
+      {
+        "kullanici_adi": "kampci_ruhu",
+        "puan": 5,
+        "yorum_metni": "Ağaç evlerde kalıp sabah antik kentin içinden denize yürümek paha biçilemez."
+      },
+      {
+        "kullanici_adi": "tarih_doga",
+        "puan": 5,
+        "yorum_metni": "Hem denizi güzel hem de kalıntılar çok etkileyici. Gece Yanartaş yürüyüşü harikaydı."
+      },
+      {
+        "kullanici_adi": "sakinlik_arayan",
+        "puan": 4,
+        "yorum_metni": "Denizi biraz taşlık ama çok temiz. Ortamı çok huzurlu, kafa dinlemek için birebir."
+      }
+    ],
+    "harita_koordinat_link": "https://goo.gl/maps/olympos123"
+  },
+  {
+    "id": "antalya_patara_001",
+    "baslik": "Patara Kum Tepeleri",
+    "bolge": "Antalya / Kaş (Kalkan)",
+    "kapak_resmi_url": "https://images.unsplash.com/photo-1596489376880-994b7e8de4b3?q=80&w=1080&auto=format&fit=crop",
+    "galeri_resimleri": [
+      "https://images.unsplash.com/photo-1558296362-e648c6686a7d?q=80&w=1080&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1628172935579-24b539bf367c?q=80&w=1080&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1621516223707-88981df27756?q=80&w=1080&auto=format&fit=crop"
+    ],
+    "tanitim_videosu_url": "https://www.youtube.com/embed/xXxXxXxXxXx",
+    "acıklama": "Kendinizi Sahra Çölü'nde hissedeceğiniz Patara Kum Tepeleri, gün batımının Türkiye'deki en güzel izlenebildiği noktalardan biridir. Kilometrelerce uzanan ince kumlu plajı ve Caretta Caretta'ların üreme alanı olmasıyla ünlüdür. Patara Antik Kenti'ni gezdikten sonra kum tepelerinde eşsiz fotoğraflar çekilebilirsiniz.",
+    "zaman_dilimi_onerisi": {
+      "hedef_saat": "18:00-23:00",
+      "aktivite": "Kum tepelerinde çıplak ayakla yürüyüş yapmak ve muhteşem gün batımını izleyip fotoğraflamak."
+    },
+    "yorumlar": [
+      {
+        "kullanici_adi": "fotograf_delisi",
+        "puan": 5,
+        "yorum_metni": "Gün batımında o kadar güzel fotoğraflar çıkıyor ki, inanamazsınız. Çölde gibi hissettiriyor."
+      },
+      {
+        "kullanici_adi": "romantik_gezgin",
+        "puan": 5,
+        "yorum_metni": "Eşimle gün batımını izlemeye gittik. Hayatımda gördüğüm en güzel manzaralardan biriydi."
+      },
+      {
+        "kullanici_adi": "ruzgar_gulu",
+        "puan": 4,
+        "yorum_metni": "Çok güzel ama rüzgarlı günlerde kum fırtınasına dikkat etmek lazım. Antik kent de çok büyük ve etkileyici."
+      }
+    ],
+    "harita_koordinat_link": "https://goo.gl/maps/patara123"
+  }
+]
