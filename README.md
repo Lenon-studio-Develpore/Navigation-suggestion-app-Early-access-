@@ -1,1 +1,1 @@
-Uygulama amaçı gezinti öneri uygulamasıdır verileri diğer github deposundan çekerek güncellenir veriler  "https://github.com/Lenon-studio-Develpore/Mobile-App-Json-" çekilir uygulama daha fazla güncelleme düşünülüyor
+The application is intended as a navigation suggestion application. It updates by pulling data from another GitHub repository; data is currently being retrieved from "https://github.com/Lenon-studio-Develpore/Mobile-App-Json-". Further updates to the application are under consideration.
